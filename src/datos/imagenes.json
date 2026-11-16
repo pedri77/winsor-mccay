@@ -1,0 +1,123 @@
+{
+ "pagina": {
+  "fecha": "1908-07-26",
+  "fichero": "Little Nemo 1908-07-26.jpg",
+  "w": 1600,
+  "h": 2133
+ },
+ "despertares": [
+  {
+   "fecha": "1905-10-15",
+   "fichero": "Little Nemo 1905-10-15.jpg",
+   "w": 377,
+   "h": 222,
+   "pw": 1280,
+   "ph": 1748
+  },
+  {
+   "fecha": "1906-07-08",
+   "fichero": "Little Nemo 1906-07-08.jpg",
+   "w": 304,
+   "h": 272,
+   "pw": 1280,
+   "ph": 1700
+  },
+  {
+   "fecha": "1906-09-23",
+   "fichero": "Little Nemo 1906-09-23.jpg",
+   "w": 233,
+   "h": 246,
+   "pw": 1280,
+   "ph": 1696
+  },
+  {
+   "fecha": "1907-02-24",
+   "fichero": "Little Nemo 1907-02-24.jpg",
+   "w": 275,
+   "h": 264,
+   "pw": 1280,
+   "ph": 1703
+  },
+  {
+   "fecha": "1907-07-28",
+   "fichero": "Little Nemo 1907-07-28.jpg",
+   "w": 314,
+   "h": 270,
+   "pw": 1280,
+   "ph": 1689
+  },
+  {
+   "fecha": "1907-10-13",
+   "fichero": "Little Nemo 1907-10-13.jpg",
+   "w": 292,
+   "h": 308,
+   "pw": 1280,
+   "ph": 1691
+  },
+  {
+   "fecha": "1907-11-24",
+   "fichero": "Little Nemo 1907-11-24.jpg",
+   "w": 294,
+   "h": 264,
+   "pw": 1280,
+   "ph": 1699
+  },
+  {
+   "fecha": "1908-02-09",
+   "fichero": "Little Nemo 1908-02-09.jpg",
+   "w": 282,
+   "h": 268,
+   "pw": 1280,
+   "ph": 1671
+  },
+  {
+   "fecha": "1908-04-26",
+   "fichero": "Little Nemo 1908-04-26.jpg",
+   "w": 268,
+   "h": 252,
+   "pw": 1280,
+   "ph": 1683
+  },
+  {
+   "fecha": "1908-11-01",
+   "fichero": "Little Nemo 1908-11-01.jpg",
+   "w": 314,
+   "h": 221,
+   "pw": 1280,
+   "ph": 1642
+  },
+  {
+   "fecha": "1909-05-16",
+   "fichero": "Little Nemo 1909-05-16.jpg",
+   "w": 314,
+   "h": 227,
+   "pw": 1280,
+   "ph": 1677
+  },
+  {
+   "fecha": "1911-07-23",
+   "fichero": "Little Nemo 1911-07-23.jpg",
+   "w": 320,
+   "h": 276,
+   "pw": 1280,
+   "ph": 1673
+  }
+ ],
+ "extra": {
+  "retrato": {
+   "fichero": "Winsor McCay 1906.jpg",
+   "w": 421,
+   "h": 504
+  },
+  "gertie-boca": {
+   "fichero": "Gertie the Dinosaur with her mouth open (original art).jpg",
+   "w": 1280,
+   "h": 943
+  },
+  "gertie-pilas": {
+   "fichero": "Gertie stacks of drawings.jpg",
+   "w": 549,
+   "h": 385
+  }
+ }
+}
